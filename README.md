@@ -1,1 +1,3 @@
 # Práctica de Git y Python
+INTEGRANTES: STEVEN NINASUNTA
+             BRAYAN VIRACOCHA
