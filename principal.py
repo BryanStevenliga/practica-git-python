@@ -3,4 +3,8 @@ from enemigo import Enemigo
 
 if __name__ == "__main__":
     heroe = Personaje("Guerrero Steven", 100, 25)
-    print(f"Héroe creado: {heroe.nombre} con {heroe.vida} HP.")
+    monstruo = Enemigo("Dragón Brayan", 80)
+
+
+    print(f"¡Un salvaje {monstruo.nombre} aparece!")
+    print(heroe.atacar(monstruo))
