@@ -11,3 +11,6 @@ class Enemigo:
             print(f"💀 ¡{self.nombre} ha sido derrotado!")
         else:
             print(f"🩸 A {self.nombre} le quedan {self.vida} HP.")
+
+
+            ##fin
